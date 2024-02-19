@@ -2,8 +2,8 @@
 ![siyoil-min](https://github.com/leeyanggoo/react2023-1/assets/125417787/b20add3d-6117-4e77-9ee9-9e947aa08669)
 
 >  애플리케이션 '시요일'을 컨셉으로 만든 사이트입니다.
-> + Live Demo : [react-siyoil.netlify.app](https://react-siyoil.netlify.app/)
-> + Refer to : [https://jdan.github.io/98.css/#intro](https://nodlik.github.io/StPageFlip/)
+> + Live Demo : https://react-siyoil.netlify.app/today
+> + Refer to : https://nodlik.github.io/StPageFlip/
 
 # 사용 스택 / 라이브러리
 + React
